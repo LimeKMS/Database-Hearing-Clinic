@@ -4,5 +4,3 @@ Go into the java program and change the username and password if you change data
 This is a beta, several procedures have not yet been added or tested. 
 The system is currently able to read and insert, delete, and update data, just not display the data.
 Please run the program in a java compiler.
-
--Team15, its the best we could do.

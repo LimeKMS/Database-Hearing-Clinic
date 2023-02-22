@@ -1,6 +1,16 @@
 Hello, Welcome to hearing clinic datavase systems beta package
+This project was completed for a theoritical hearing clinic
+
 First, go into the database implementation and add in your database name in the fill marker
 Go into the java program and change the username and password if you change databases
 This is a beta, several procedures have not yet been added or tested. 
 The system is currently able to read and insert, delete, and update data, just not display the data.
 Please run the program in a java compiler.
+
+If the program cannot reach the SQL root server, it will display a window notifing the user.
+
+If the program can reach and connect to the SQL root server:
+The user will boot up within the main menu and will be able to traverse through serveral pages.
+Traversal example:
+Use case: The user wishes to add a new medicine into the database
+Main Menu -> 
